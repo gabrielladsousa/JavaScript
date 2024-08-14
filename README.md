@@ -3,7 +3,7 @@ Seja muito bem-vindo ao meu repositório de programas em JavaScript! Neste espa�
 <br>
 <h2>Índice</h2>
 <ul>
-  <a href="#sobre-repo" style="text-decoration:none;"><li>Sobre o Repositório</li></a>
+  <a href="#sobre-repo"><li style="text-decoration:none;">Sobre o Repositório</li></a>
   <a href="#contribuicao" style="text-decoration:none;"><li>Contribuições</li></a>
 </ul>
 <br>
