@@ -6,8 +6,6 @@ Seja muito bem-vindo ao meu repositório de programas em JavaScript! Neste espa�
   <a href="#sobre-repo"><li>Sobre o Repositório</li></a>
   <a href="#contribuicao"><li>Contribuições</li></a>
 </ul>
-<br>
-
 <h2 id="sobre-repo">Sobre o Repositório</h2>
 Este repositório serve como um portfólio dos meus trabalhos em JavaScript. Inclui desde pequenos scripts que exploram conceitos básicos até projetos mais complexos que demonstram aplicações práticas e criativas do JavaScript.
 <br>
