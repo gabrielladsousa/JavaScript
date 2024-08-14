@@ -1,9 +1,3 @@
-<style>
-  a{
-    text-decoration:none;
-  }
-</style>
-
 <h1>Repositório de Programas em JavaScript</h1>
 Seja muito bem-vindo ao meu repositório de programas em JavaScript! Neste espaço, você encontrará uma seleção de scripts e projetos que criei ao longo do tempo. Os programas abrangem uma ampla gama de tópicos, desde os princípios básicos do JavaScript até implementações mais complexas, mostrando o meu aprendizado e desenvolvimento como programador.
 <br>
