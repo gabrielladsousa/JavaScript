@@ -44,10 +44,9 @@ function plusMinus(arr) {
             }
         }
     }
-    
-    console.log((positivo / arr.length) || 0);
-    console.log((negativo / arr.length) || 0);
-    console.log((zero / arr.length) || 0);
+    console.log(positivo / arr.length);
+    console.log(negativo / arr.length);
+    console.log(zero / arr.length);
 }
 
 function main() {
